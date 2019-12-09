@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="MazeCube.cs" />
     <Compile Include="MazeGenerator.cs" />
+    <Compile Include="MazeLink.cs" />
+    <Compile Include="MazeNode.cs" />
+    <Compile Include="NewMaze.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
